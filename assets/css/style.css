@@ -61,26 +61,26 @@ a {
   background-position: center;
 }
 
-/*Places images in sections to the left*/
+/*Places images in divs to the left*/
 .float-left {
   float: left;
   margin-right: 25px;
 }
 
-/*Places images in sections to the right*/
+/*Places images in div to the right*/
 .float-right {
   float: right;
   margin-left: 25px;
 }
 
-/*The requirements for the main tag containing three sections*/
+/*The requirements for the main tag containing three div*/
 main {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
 
-/*The requirements for each of the three sections in the main tag*/
+/*The requirements for each of the three div in the main tag*/
 .search-engine-optimization {
   margin-bottom: 20px;
   padding: 50px;
@@ -102,7 +102,7 @@ main {
 p {
   font-size: 16px;
 }
-/*The requirements for the aside tag and it's sections*/
+/*The requirements for the aside tag and it's divs*/
 .benefits {
   margin-right: 20px;
   padding: 20px;

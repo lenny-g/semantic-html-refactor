@@ -1,6 +1,5 @@
 * {
   box-sizing: border-box;
-  padding: 0;
   margin: 0;
 }
 
@@ -10,7 +9,7 @@ body {
 }
 
 header {
-  position: auto;
+  position: relative;
   width: 100%;
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -18,6 +17,7 @@ header {
   background-color: #2a607c;
   color: #ffffff;
 }
+
 /*The position of the text in the Header*/
 header h1 {
   display: inline-block;

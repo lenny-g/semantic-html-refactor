@@ -8,8 +8,6 @@ Objective was to refactor a marketing website using semantic HTML.
 
 ![preview](./assets/images/horiseon-preview.png)
 
-Refactor a marketing website using semantic HTML.
-
 # WORK ACHIEVED:
 
 - Refactored existing code

@@ -1,8 +1,10 @@
-# semantic-html-refactor (COMPLETE)
+## SEMANTIC HTML REFACTOR (COMPLETE)
+
+Objective was to refactor a marketing website using semantic HTML.
 
 <a href="">Click here for webpage</a>
 
-# The following image shows the web application's appearance and functionality:
+##The following image shows the web application's appearance and functionality:
 
 ![preview](./assets/images/horiseon-preview.png)
 

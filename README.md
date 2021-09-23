@@ -1,14 +1,20 @@
-## SEMANTIC HTML REFACTOR (COMPLETE)
+# SEMANTIC HTML REFACTOR (COMPLETE)
+
+## PROJECT DESCRIPTION
 
 Objective was to refactor a marketing website using semantic HTML.
 
-<a href="https://lenny-g.github.io/semantic-html-refactor/">Click here for webpage</a>
+## LINK TO WORKING WEBPAGE
 
-#The following image shows the web application's appearance and functionality:
+Click [here](https://lenny-g.github.io/semantic-html-refactor/) for finished webpage.
+
+## SCREENSHOTS
+
+The following image shows the web application's appearance and functionality:
 
 ![preview](./assets/images/horiseon-preview.png)
 
-# WORK ACHIEVED:
+## WORK ACHIEVED:
 
 - Refactored existing code
 - Created alt tags to make images accessible
